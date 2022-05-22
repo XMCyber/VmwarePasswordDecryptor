@@ -5,7 +5,7 @@
 When you connect to a remote server, either ESXi or Vsphere, VMware Workstation gives you the option to save your credentials on your computer.
 The connection details are saved encrypted. This tool decrypts the configuration details, including the password.
 
-You can read the flow decryption explanation here.
+You can read the flow decryption explanation [here](https://medium.com/xm-cyber/decrypting-vmware-workstation-passwords-for-fun).
 
 ## Prerequisites
 Run this command:
